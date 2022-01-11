@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hell php]]>
+    </line>
+    <line>
+      <![CDATA[Hell Ruby]]>
+    </line>
+    <line>
+      <![CDATA[Hell Python]]>
+    </line>
+    <line>
+      <![CDATA[Hell java]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-01-11T09:42:28 IST" name="Default suite" finished-at="2022-01-11T09:42:28 IST" duration-ms="71">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T09:42:28 IST" name="Default test" finished-at="2022-01-11T09:42:28 IST" duration-ms="71">
+      <class name="simpleproject.Test4">
+        <test-method signature="tc4()[pri:0, instance:simpleproject.Test4@10959ece]" started-at="2022-01-11T09:42:28 IST" name="tc4" finished-at="2022-01-11T09:42:28 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hell php]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- simpleproject.Test4 -->
+      <class name="simpleproject.Test3">
+        <test-method signature="tc3()[pri:0, instance:simpleproject.Test3@44821a96]" started-at="2022-01-11T09:42:28 IST" name="tc3" finished-at="2022-01-11T09:42:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hell Ruby]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- simpleproject.Test3 -->
+      <class name="simpleproject.Test2">
+        <test-method signature="tc2()[pri:0, instance:simpleproject.Test2@a3d8174]" started-at="2022-01-11T09:42:28 IST" name="tc2" finished-at="2022-01-11T09:42:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hell Python]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- simpleproject.Test2 -->
+      <class name="simpleproject.Test1">
+        <test-method signature="tc1()[pri:0, instance:simpleproject.Test1@1ba9117e]" started-at="2022-01-11T09:42:28 IST" name="tc1" finished-at="2022-01-11T09:42:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hell java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- simpleproject.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
