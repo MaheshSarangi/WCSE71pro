@@ -7,6 +7,9 @@
       <class name="simpleproject.Test1"/>
       <class name="simpleproject.Test4"/>
       <class name="simpleproject.Test3"/>
+      <class name="simpleproject.Test6"/>
+      <class name="simpleproject.Test5"/>
+      <class name="simpleproject.Test7"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
